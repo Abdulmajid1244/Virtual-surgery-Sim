@@ -1,0 +1,23 @@
+# Ignore Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Uu]serSettings/
+MemoryCaptures/
+Logs/
+
+# Ignore IDE and OS files
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.pdb
+*.opendb
+.DS_Store
+Thumbs.db
+desktop.ini
